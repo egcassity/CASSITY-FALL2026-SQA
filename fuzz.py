@@ -22,7 +22,6 @@ def test_function(name, function, *args):
         errors.append(f"{name}: {type(error).__name__}: {error}")
 
 
-# Different types of values to test
 def random_value():
     return random.choice([
         "Pod",
@@ -37,7 +36,6 @@ def random_value():
     ])
 
 
-# Different dictionary structures to test
 def random_dictionary():
     return random.choice([
         {},
@@ -57,7 +55,7 @@ for i in range(100):
     value = random_value()
     data = random_dictionary()
 
-    # 1. Test checkIfWeirdYAML
+    # 1
     yaml_text = random.choice([
         f"kind: Pod\nmetadata:\n  name: {name}",
         "",
@@ -67,19 +65,19 @@ for i in range(100):
     ])
     test_function("checkIfWeirdYAML", parser.checkIfWeirdYAML, yaml_text)
 
-    # 2. Test keyMiner
+    # 2
     test_function("keyMiner", parser.keyMiner, data, key)
 
-    # 3. Test getKeyRecursively
+    # 3
     test_function("getKeyRecursively", parser.getKeyRecursively, data, [])
 
-    # 4. Test getValuesRecursively
+    # 4
     test_function("getValuesRecursively", parser.getValuesRecursively, data)
 
-    # 5. Test getValsFromKey
+    # 5
     test_function("getValsFromKey", parser.getValsFromKey, data, key, [])
 
-    # 6. Test checkIfValidHelm
+    # 6
     with tempfile.NamedTemporaryFile(mode="w", suffix=".yaml", delete=False) as file:
         file.write(yaml_text)
         file_path = file.name
@@ -89,10 +87,10 @@ for i in range(100):
     finally:
         os.remove(file_path)
 
-    # 7. Test find_json_path_keys
+    # 7
     test_function("find_json_path_keys", parser.find_json_path_keys, data)
 
-    # 8. Test update_json_paths
+    # 8
     paths = random.choice([
         [],
         [f"{key}.{name}"],
@@ -102,7 +100,7 @@ for i in range(100):
     ])
     test_function("update_json_paths", parser.update_json_paths, paths)
 
-    # 9. Test getSingleDict4MultiDocs
+    # 9
     documents = random.choice([
         [],
         [{"kind": "Pod"}],
@@ -112,7 +110,7 @@ for i in range(100):
     ])
     test_function("getSingleDict4MultiDocs", parser.getSingleDict4MultiDocs, documents)
 
-    # 10. Test constructHelmString
+    # 10
     helm_data = random.choice([
         ("chart", name, "values"),
         ("deployment", "", "templates"),
@@ -122,7 +120,6 @@ for i in range(100):
     test_function("constructHelmString", graphtaint.constructHelmString, helm_data)
 
 
-# Save results
 with open("fuzz_results.log", "w") as file:
     file.write("KubeSec Fuzzing Results\n")
     file.write("=======================\n")
