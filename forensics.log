@@ -1,0 +1,275 @@
+2026-11-24T21:32:19-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T21:32:19-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T21:32:19-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 6, Keys: 24
+2026-11-24T21:32:19-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/multi.doc.yaml, Valid: True
+2026-11-24T21:32:19-06:00 | update_json_paths | Paths updated | Input: 109, Output: 107
+2026-11-24T21:32:19-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T21:32:19-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T21:32:19-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/nginx.deployment.result.yaml, Valid: True
+2026-11-24T21:32:19-06:00 | update_json_paths | Paths updated | Input: 72, Output: 71
+2026-11-24T21:32:19-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:32:19-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/bootstrap.debian.yaml, Valid: True
+2026-11-24T21:32:19-06:00 | update_json_paths | Paths updated | Input: 87, Output: 76
+2026-11-24T21:32:19-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 8
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/githooks.yaml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 735, Output: 734
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/start_vault_temp.yaml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 37, Output: 30
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/list.k8s.yml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 331, Output: 330
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/tasks.main.yml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 72, Output: 62
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 2
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/cluster.svc.v.yaml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 947, Output: 946
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/reso.app.yml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 19, Output: 18
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/no.kind.yaml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 214, Output: 213
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:20-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:32:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:32:21-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:32:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T21:35:58-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 6, Keys: 24
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/multi.doc.yaml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 109, Output: 107
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/nginx.deployment.result.yaml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 72, Output: 71
+2026-11-24T21:35:58-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/bootstrap.debian.yaml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 87, Output: 76
+2026-11-24T21:35:58-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 8
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/githooks.yaml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 735, Output: 734
+2026-11-24T21:35:58-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/start_vault_temp.yaml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 37, Output: 30
+2026-11-24T21:35:58-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:58-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/list.k8s.yml, Valid: True
+2026-11-24T21:35:58-06:00 | update_json_paths | Paths updated | Input: 331, Output: 330
+2026-11-24T21:35:58-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/tasks.main.yml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 72, Output: 62
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 2
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/cluster.svc.v.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 947, Output: 946
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/reso.app.yml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 19, Output: 18
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/no.kind.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 214, Output: 213
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:35:59-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:35:59-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:35:59-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:36:00-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:36:00-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:36:00-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:36:00-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:36:00-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:36:00-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:36:00-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:36:00-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:36:00-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:36:00-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:36:00-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:36:00-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T21:44:20-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T21:44:20-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 6, Keys: 24
+2026-11-24T21:44:20-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/multi.doc.yaml, Valid: True
+2026-11-24T21:44:20-06:00 | update_json_paths | Paths updated | Input: 109, Output: 107
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/nginx.deployment.result.yaml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 72, Output: 71
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/bootstrap.debian.yaml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 87, Output: 76
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 8
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/githooks.yaml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 735, Output: 734
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/start_vault_temp.yaml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 37, Output: 30
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/list.k8s.yml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 331, Output: 330
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/tasks.main.yml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 72, Output: 62
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 2
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/cluster.svc.v.yaml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 947, Output: 946
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/reso.app.yml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 19, Output: 18
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T21:44:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/no.kind.yaml, Valid: True
+2026-11-24T21:44:21-06:00 | update_json_paths | Paths updated | Input: 214, Output: 213
+2026-11-24T21:44:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:44:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T21:44:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T21:44:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T21:55:06-06:00 | getYAMLFiles | YAML files searched | Directory: C:\Users\emily\AppData\Local\Temp\tmpspu_g71w, Files found: 2
+2026-11-24T21:55:06-06:00 | getValidTaints | Taints identified | Matches: 1, Taints: 1
+2026-11-24T21:55:06-06:00 | getSHFiles | Shell files searched | Directory: C:\Users\emily\AppData\Local\Temp\tmpspu_g71w, Files found: 1
+2026-11-24T21:58:48-06:00 | checkIfWeirdYAML | YAML checked | Flagged: False, Length: 71
+2026-11-24T21:58:48-06:00 | checkIfValidHelm | Helm path checked | Path: C:\Users\emily\AppData\Local\Temp\tmpblwlihgp.yaml, Result: False
+2026-11-24T21:58:48-06:00 | readYAMLAsStr | YAML file read | File: C:\Users\emily\AppData\Local\Temp\tmpblwlihgp.yaml, Characters: 71
+2026-11-24T21:58:48-06:00 | count_initial_comment_line | Comments counted | File: C:\Users\emily\AppData\Local\Temp\tmpblwlihgp.yaml, Count: 2
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 6, Keys: 24
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/multi.doc.yaml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 109, Output: 107
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/empty.yml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 138, Output: 132
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/nginx.deployment.result.yaml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 72, Output: 71
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/bootstrap.debian.yaml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 87, Output: 76
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 8
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/githooks.yaml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 735, Output: 734
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/start_vault_temp.yaml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 37, Output: 30
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/list.k8s.yml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 331, Output: 330
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T22:00:21-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/tasks.main.yml, Valid: True
+2026-11-24T22:00:21-06:00 | update_json_paths | Paths updated | Input: 72, Output: 62
+2026-11-24T22:00:21-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 2
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/cluster.svc.v.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 947, Output: 946
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/reso.app.yml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 19, Output: 18
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 5
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/no.kind.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 214, Output: 213
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 3
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:22-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:22-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:22-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:23-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:23-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:23-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:23-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:23-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:23-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:23-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:23-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:23-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
+2026-11-24T22:00:23-06:00 | checkParseError | YAML parsing checked | File: TEST_ARTIFACTS/dataimage.airflowimage.manifests.deployment.yaml, Valid: True
+2026-11-24T22:00:23-06:00 | update_json_paths | Paths updated | Input: 269, Output: 268
+2026-11-24T22:00:23-06:00 | getSingleDict4MultiDocs | Documents combined | Documents: 1, Keys: 4
