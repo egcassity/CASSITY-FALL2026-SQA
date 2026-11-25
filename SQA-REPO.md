@@ -9,7 +9,7 @@ Task Checklist:
    a. Done
    b. Done
    c. Done
-6. 
+6. Done
 
 How to identify your implementation:
 The following files contain the project implementation:
