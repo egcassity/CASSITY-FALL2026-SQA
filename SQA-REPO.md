@@ -31,3 +31,4 @@ Run the project's methods that contain forensic logging and review forensics.log
 To verify continuous integration, push a change to the main branch on GitHub. The workflow results can be viewed under the repository's Actions tab.
 
 Lesson Learned:
+I learned that testing methods with random and unexpected inputs can help catch issues that I might not find by only using normal inputs. I also got more experience adding logging to code and checking the log files to see what different methods were doing. I learned how to use GitHub Actions to automatically run my tests whenever I make changes to the repository, which saves me from having to run them all manually. The automatic running of tests through Github is especially useful for future projects outside of the class.
