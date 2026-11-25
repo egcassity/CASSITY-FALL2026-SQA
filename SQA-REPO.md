@@ -11,6 +11,9 @@ Task Checklist:
    c. Done
 6. Done
 
+4a Fuzzing Reporting:
+The fuzzing script executed 1,000 tests across 10 Python methods using randomly generated inputs. The tests included empty values, nested dictionaries, unexpected data types, and unusual strings. No errors/exceptions/crashes were detected during the latest run.
+
 How to identify your implementation:
 The following files contain the project implementation:
 fuzz.py: Contains the automated fuzzing script. It generates different input values and data structures to test 10 selected Python methods.
