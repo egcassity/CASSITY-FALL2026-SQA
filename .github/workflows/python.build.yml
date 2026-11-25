@@ -35,3 +35,7 @@ jobs:
     - name: Run integration and taint-related tests 
       run: |
         python TEST_PARSING.py  
+
+    - name: Run automated fuzzing
+      run: |
+        python fuzz.py
